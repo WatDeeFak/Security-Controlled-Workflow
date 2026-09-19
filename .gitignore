@@ -1,0 +1,10 @@
+/.terraform
+/.terraform.lock.hcl
+/outputs.tf
+/providers.tf
+/terraform.tfstate
+/terraform.tfstate.backup
+/terraform.tfvars
+/tfplan
+/tfplan.json
+/variables.tf
